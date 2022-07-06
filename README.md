@@ -1,3 +1,3 @@
 # VVF_Redux
 
-Practicing React Redux.
+Practicing React Redux...
